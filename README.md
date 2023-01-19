@@ -3,4 +3,4 @@ CODES and full experimental results for A Two-stage Contrastive Domain Adaptatio
 # CODES
 coming soon.
 # RESULTS
-Please download ./experimental results for more details.
+Please download ./Experimental Results.pdf for more details.
